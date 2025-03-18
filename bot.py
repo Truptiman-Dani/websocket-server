@@ -98,7 +98,7 @@ async def main():
 
     tts = CartesiaTTSService(
         api_key=os.getenv("CARTESIA_API_KEY"),
-        voice_id="71a7ad14-091c-4e8e-a314-022ece01c121",  # British Reading Lady
+        voice_id="faf0731e-dfb9-4cfc-8119-259a79b27e12",  # British Reading Lady
     )
 
     # Read the company description from the file
