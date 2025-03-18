@@ -91,6 +91,7 @@ async def main():
         )
     )
 
+    # Initialize services
     llm = OpenAILLMService(api_key=os.getenv("OPENAI_API_KEY"), model="gpt-4o")
 
     stt = DeepgramSTTService(api_key=os.getenv("DEEPGRAM_API_KEY"))
@@ -100,14 +101,25 @@ async def main():
         voice_id="71a7ad14-091c-4e8e-a314-022ece01c121",  # British Reading Lady
     )
 
+    # Read the company description from the file
+    with open("description.txt", "r", encoding="utf-8") as file:
+        company_description = file.read()
+
+    # Define messages with system instruction and company description
     messages = [
         {
             "role": "system",
-            "content": "You are a helpful LLM in a WebRTC call. Your goal is to demonstrate your capabilities in a succinct way. Your output will be converted to audio so don't include special characters in your answers. Respond to what the user said in a creative and helpful way.",
+            "content": "You are a helpful LLM in a WebRTC call that holds all the company information. Your goal is to demonstrate your capabilities in a succinct way. Your output will be converted to audio, so don't include special characters in your answers. Respond to what the user said in a creative and helpful way.",
+        },
+        {
+            "role": "system",
+            "content": f"Here is the company description: {company_description}",
         },
     ]
 
+    # Pass the messages into the LLM context
     context = OpenAILLMContext(messages)
+
     context_aggregator = llm.create_context_aggregator(context)
 
     pipeline = Pipeline(

@@ -1,0 +1,44 @@
+**Company Name:** Kreesalis Tech Lab Private Limited  
+**Headquarters:** Bangalore, Karnataka, India  
+**Founded:** June 16, 2021  
+**Location:** 2739,15th Cross, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102  
+**Industry:** AI, Cybersecurity, Customer Engagement, Digital Transformation  
+
+## **About Kreesalis**  
+Kreesalis Tech Lab Private Limited is a cutting-edge technology company specializing in **business growth solutions and cybersecurity innovations**. The company provides an advanced product suite that enables enterprises to optimize their **customer engagement, marketing automation, data security, and fraud prevention** strategies. With a focus on **AI-driven automation and digital security**, Kreesalis empowers businesses of all sizes to drive digital transformation while maintaining a secure online environment.  
+
+## **Core Offerings**  
+Kreesalis provides a **Business Growth & Cybersecurity Product Suite** that helps businesses enhance customer interactions, improve security, and drive higher revenue. The company's products include:  
+
+### **Business Growth Solutions**  
+- **K-CDXP (Customer Data & Experience Platform):** Unifies customer data, provides advanced segmentation, and personalizes experiences through AI-driven insights.  
+- **K-CHAT:** Chatbot automation for support, marketing, and commerce to ensure seamless digital interactions.  
+- **K-WALLET:** A digital asset tokenization platform that enables businesses to create and manage their own branded currency, stablecoins, and NFTs.  
+
+### **Cybersecurity & Privacy Solutions**  
+- **K-PROTECT:** A behavioral biometrics-based security solution to prevent fraud, impersonation, and unauthorized transactions.  
+- **K-PRIVACY:** A next-gen privacy orchestration platform ensuring secure data management and compliance.  
+- **K-SECURE:** A Managed XDR (Extended Detection and Response) solution for comprehensive cybersecurity threat detection and resolution.  
+
+## **Key Features & Benefits**  
+- **All-in-One Marketing & Security Platform:** Combines business growth tools with advanced cybersecurity measures.  
+- **AI-Driven Customer Engagement:** Uses machine learning to optimize marketing campaigns and customer interactions.  
+- **Advanced Fraud Prevention:** Detects and prevents impersonation fraud, SIM swap scams, and mule accounts.  
+- **Seamless API Integrations:** Pre-integrated with popular tools like POS, CRMs, and billing systems for easy adoption.  
+- **Multi-Channel Communication:** Engage with customers across 20+ digital channels, including WhatsApp chatbots.  
+- **Customer Data Protection:** Ensures regulatory compliance and safeguards consumer transactions with adaptive authentication.  
+
+## **Why Businesses Choose Kreesalis**  
+- **Scalable & Future-Proof Solutions:** API-centric and headless architecture allows seamless integration and scalability.  
+- **Proven Impact:** Over **100+ customers**, **500+ active campaigns**, and **2M+ coupons distributed** with **50K+ monthly redemptions**.  
+- **Secure & Personalized Digital Experience:** Businesses can drive engagement while ensuring a frictionless and safe customer journey.  
+
+## **Leadership Team**  
+- **Ansuman Dani (Co-Founder & CEO):** A serial entrepreneur with expertise in **marketing automation, fraud prevention, supply chain optimization, and financial services**. His vision is to leverage **AI and big data** to revolutionize digital security and customer engagement.  
+- **Pallavi Das (Co-Founder & Product Strategist):** Plays a crucial role in **product development, strategic operations, and business growth initiatives**.  
+
+## **Company Culture & Team**  
+Kreesalis fosters a **culture of innovation, collaboration, and problem-solving** with a dedicated team of **11-50 professionals**, including software developers, data analysts, marketing strategists, and cybersecurity experts. The company is committed to staying ahead of industry trends by continuously evolving its technology and solutions.  
+
+## **Conclusion**  
+Kreesalis Tech Lab is redefining **customer data management, AI-powered marketing automation, and fraud prevention** for businesses across industries. Its **customer-first approach** and **secure digital solutions** make it the preferred choice for enterprises looking to thrive in a fast-evolving digital landscape.
