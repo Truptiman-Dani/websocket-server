@@ -44,7 +44,7 @@
             border-radius: 15px;
             backdrop-filter: blur(10px);
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-            max-width: 400px;
+            max-width: 600px;
             margin-top: 70px; /* Adjust for top bar */
         }
 
@@ -59,15 +59,20 @@
         }
 
         .login {
-            background: #ff6b6b;
+            background: #fc4d4d;
             color: white;
-            border: none;
-            padding: 12px 24px;
-            font-size: 18px;
-            border-radius: 25px;
+            font-size: 14px;
+            padding: 8px 16px;
+            border-radius: 20px;
             margin-right: 2%;
+            border: none;
             cursor: pointer;
             transition: all 0.3s ease-in-out;
+        }
+
+        .login:hover {
+            background: rgba(255, 255, 255, 0.5);
+            color: black;
         }
 
         .btn {
@@ -85,20 +90,30 @@
             background: #ff4757;
             transform: scale(1.1);
         }
-
     </style>
 </head>
 <body>
 
     <!-- Top Navigation Bar -->
     <div class="top-bar">
-        <img src="./meida/kreesalis_white_text.png" alt="Kreesalis Logo" class="logo">
+        <img src="./media/kreesalis_white_text.png" alt="Kreesalis Logo" class="logo">
         <button type="button" class="login" onclick="location.href='login.html'">Login</button>
     </div>
 
     <div class="container">
         <h1>Welcome to Kreesalis Assistant</h1>
-        <p>Click the button below to start a conversation.</p>
+        <p>Kreesalis Assistant is your smart AI-powered voice assistant designed to provide seamless, natural conversations. Experience real-time voice interaction, context-aware responses, and advanced speech capabilities.</p>
+        
+        <h2>Key Features</h2>
+        <ul style="text-align: left; margin: 0 auto; max-width: 500px;">
+            <li><strong>Real-time Voice Interaction:</strong> Speak naturally, get instant responses.</li>
+            <li><strong>Deepgram STT & TTS Integration:</strong> Accurate speech-to-text and text-to-speech capabilities.</li>
+            <li><strong>Context-Aware Responses:</strong> Understands and retains conversation context.</li>
+            <li><strong>Secure & Private:</strong> Prioritizing your data security.</li>
+            <li><strong>Multi-Platform Support:</strong> Works seamlessly across web, mobile, and desktop.</li>
+        </ul>
+
+        <p>Click the button below to start a conversation and explore the future of voice AI.</p>
         <button class="btn" onclick="location.href='chat.html'">Start Chat</button>
     </div>
 
